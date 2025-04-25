@@ -4,7 +4,7 @@ Sega's "Zillion" was released for the Sega Master System game console in 1987.  
 
 -  Alternatively, you can force any door open by pressing the space bar.
 
--  Special item containers (Level Up, Zillion Upgrade, BlueID Cards, Red Card, Floppy Disk), except for bread, are automatically highlighted with different colors.
+-  Special item containers (Level Up, Zillion Upgrade, BlueID Cards, Red Card, Floppy Disk), except for bread and infrared scopes, are automatically highlighted with different colors.
 
 -  The exact number of blue ID cards you have will be shown when using computer terminals.
 
